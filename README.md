@@ -3,7 +3,7 @@
 A clean, responsive personal website built with **Bootstrap 5** and a light layer of custom CSS.  
 Sections include: **Navbar**, **Hero**, **Resume**, **Projects**, **About**, and **Contact** with a minimalist **Footer**.
 
-![screenshot](<img width="1291" height="413" alt="image" src="https://github.com/user-attachments/assets/0c7426f1-b28d-4977-8f1e-542dfea968be" />)
+![screenshot](<img width="1291" height="413" alt="image" src="./assets/images/image.png" />)
 
 ---
 
